@@ -6,6 +6,7 @@ We are a research lab studying the physiology of obesity.  For more information 
 * [Neuroendocrine Hormones Studies](http://bridgeslab.github.io/CushingAcromegalyStudy)
 * [Diet Induced Obesity Studies](https://github.com/BridgesLab/PredictorsDietInducedObesity)
 * [Drosophila Muscle Function Studies](http://bridgeslab.github.io/DrosophilaMuscleFunction)
+* [Obesity and Particulate Exposures](http://bridgeslab.github.io/ObesityParticulateTreatment)
 
 # Code Repositories
 
