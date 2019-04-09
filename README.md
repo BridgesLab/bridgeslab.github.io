@@ -1,4 +1,4 @@
-We are a research lab studying the physiology of obesity.  For more information about our group please checkout our homepage at [bridgeslab.uthsc.edu](http://bridgeslab.uthsc.edu) or our [Facebook page](http://facebook.com/BridgesLab)
+We are a research lab studying the physiology of obesity.  For more information about our group please checkout our homepage at [bridgeslab.sph.umich.edu](http://bridgeslab.sph.umich.edu) or our [Facebook page](http://facebook.com/BridgesLab)
 
 # Data Repositories
 
