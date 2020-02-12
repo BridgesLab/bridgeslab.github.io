@@ -7,6 +7,7 @@ We are a research lab studying the physiology of obesity.  For more information 
 * [Diet Induced Obesity Studies](https://github.com/BridgesLab/PredictorsDietInducedObesity)
 * [Drosophila Muscle Function Studies](http://bridgeslab.github.io/DrosophilaMuscleFunction)
 * [Obesity and Particulate Exposures](http://bridgeslab.github.io/ObesityParticulateTreatment)
+* [mTORC1 Related Studies](http://bridgeslab.github.io/TissueSpecificTscKnockouts)
 
 # Code Repositories
 
